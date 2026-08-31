@@ -14,7 +14,7 @@ My personal portfolio website - a space to showcase my work as a Backend AI Engi
 
 The site is accessible on both desktop and mobile devices.
 
-![Phone Screenshot](screenshots/phone-screenshot.png)
+![Phone Screenshot](screenshots/phone-screenshot.jpeg)
 
 ---
 
